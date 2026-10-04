@@ -152,4 +152,11 @@
     position: initial;
     margin-bottom: 10px;
   }
+  
+  .formacao-container::after{
+    width: 30px;
+    height: 10px;
+    left: 20px;
+    bottom: -5px;
+  }
 }
